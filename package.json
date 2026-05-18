@@ -8,6 +8,10 @@
     "start": "node dist/index.js",
     "test": "node dist/tests/app.test.js"
   },
+  "dependencies": {
+    "axios": "0.21.0",
+    "lodash": "4.17.15"
+  },
   "devDependencies": {
     "typescript": "5.4.5"
   },

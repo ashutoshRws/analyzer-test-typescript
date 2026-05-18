@@ -1,0 +1,3 @@
+app:
+  name: analyzer-test-typescript
+  environment: test
